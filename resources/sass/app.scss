@@ -6,13 +6,3 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
-// FontAwesome v5 Free
-@import '~@fortawesome/fontawesome-free/scss/fontawesome';
-@import '~@fortawesome/fontawesome-free/scss/brands';
-@import '~@fortawesome/fontawesome-free/scss/regular';
-@import '~@fortawesome/fontawesome-free/scss/solid';
-
-// Extra styles for auto-suggest & fixed header and footer
-@import 'autosuggest';
-@import "fixed-header-footer";
-@import "code-extension";
